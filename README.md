@@ -1,8 +1,8 @@
 # orbit ✦
 
-> The personal landing page of **lowx**, fullstack developer. It builds itself: type `/init`, and a small team of cursors draws, types and drags every piece of the page into place, then settles into an orbit around your mouse.
+> The personal landing page of me, **lowx**, fullstack developer. It builds itself: type `/init`, and a small team of cursors draws, types and drags every piece of the page into place, then settles into an orbit around your mouse.
 
-**Live demo:** _add your link here_
+**Live demo:** https://samlcss.github.io/orbit/
 
 ![orbit preview](preview.gif)
 
