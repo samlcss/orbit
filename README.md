@@ -4,7 +4,7 @@
 
 **Live demo:** https://samlcss.github.io/orbit/
 
-![orbit preview](preview.gif)
+![orbit preview](assets/preview.gif)
 
 ---
 
